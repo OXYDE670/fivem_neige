@@ -2,7 +2,7 @@
 
 1 **Importer le dossier dans ressource**
 
-2 **Allez dans le server.cfg et metttez ca `start neige`
+2 **Allez dans le server.cfg et metttez ca** `start neige`
 
 *Crée par OXYDE#0001*
 
